@@ -13,6 +13,8 @@
 		8FAC003E1A49DDBE005BD91F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FAC003D1A49DDBE005BD91F /* Images.xcassets */; };
 		8FAC00411A49DDBE005BD91F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FAC003F1A49DDBE005BD91F /* LaunchScreen.xib */; };
 		8FAC004D1A49DDBE005BD91F /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC004C1A49DDBE005BD91F /* PostcardTests.swift */; };
+		8FAC00571A49FE48005BD91F /* Times_Square.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FAC00561A49FE48005BD91F /* Times_Square.jpg */; };
+		8FAC00591A4A00BE005BD91F /* taylor_swift.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FAC00581A4A00BE005BD91F /* taylor_swift.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		8FAC00461A49DDBE005BD91F /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FAC004B1A49DDBE005BD91F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FAC004C1A49DDBE005BD91F /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		8FAC00561A49FE48005BD91F /* Times_Square.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Times_Square.jpg; sourceTree = "<group>"; };
+		8FAC00581A4A00BE005BD91F /* taylor_swift.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taylor_swift.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				8FAC00351A49DDBE005BD91F /* Info.plist */,
+				8FAC00581A4A00BE005BD91F /* taylor_swift.jpg */,
+				8FAC00561A49FE48005BD91F /* Times_Square.jpg */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -193,7 +199,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FAC003C1A49DDBE005BD91F /* Main.storyboard in Resources */,
+				8FAC00571A49FE48005BD91F /* Times_Square.jpg in Resources */,
 				8FAC00411A49DDBE005BD91F /* LaunchScreen.xib in Resources */,
+				8FAC00591A4A00BE005BD91F /* taylor_swift.jpg in Resources */,
 				8FAC003E1A49DDBE005BD91F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
